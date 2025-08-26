@@ -1,0 +1,70 @@
+# -------------------------
+# General
+# -------------------------
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# -------------------------
+# IDE / Editor
+# -------------------------
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# -------------------------
+# Flutter / Dart
+# -------------------------
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+/build/
+
+# -------------------------
+# Android
+# -------------------------
+/android/.gradle/
+/android/local.properties
+/android/key.properties
+/android/captures/
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# -------------------------
+# iOS
+# -------------------------
+/ios/.generated/
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/ServiceDefinitions.json
+/ios/Runner/GeneratedPluginRegistrant.*
+/ios/Pods/
+/ios/Podfile.lock
+
+# -------------------------
+# macOS
+# -------------------------
+/macos/Flutter/ephemeral/
+/macos/Pods/
+/macos/Podfile.lock
+
+# ------------------------
